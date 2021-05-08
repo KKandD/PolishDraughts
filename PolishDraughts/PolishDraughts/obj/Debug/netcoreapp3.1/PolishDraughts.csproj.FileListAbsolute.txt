@@ -1,0 +1,13 @@
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.exe
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.deps.json
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.runtimeconfig.dev.json
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.dll
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\bin\Debug\netcoreapp3.1\PolishDraughts.pdb
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.csprojAssemblyReference.cache
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.dll
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.pdb
+C:\Users\filip\Documents\GitHub\polish-draughts-csharp-izazmu\PolishDraughts\PolishDraughts\obj\Debug\netcoreapp3.1\PolishDraughts.genruntimeconfig.cache
